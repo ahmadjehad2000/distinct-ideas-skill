@@ -23,6 +23,24 @@ These are fictional briefs. Both ideas have a cheap test, and either can fail fo
 
 For your own brief, replace the drill story with a real workaround, exception, or constraint. Include rejected ideas and why they fell short. On a second round, tell the agent which mechanisms to set aside and what you learned since the first round.
 
+## Bring back the part that surprised you
+
+Suppose a neighborhood radio show wants first-time contributors. It shortens its voicemail prompt. The same three regulars call. At the market, though, six people stop to argue about a sound the producer plays. Here is how a second round might go in this fictional example.
+
+An agent could read “we need new voices” literally and design a better recording booth. Another reading is that the editor needs perspectives listeners have never heard. One question separates those briefs: **would a first-time contributor's words, read by the host with permission, count?** If the editor needs actual recorded voices, the cards below can explore willingness to contribute, but the show still needs a recording.
+
+> **Producer:** People have stories. They were correcting each other for ten minutes. Another voicemail campaign feels pointless.
+>
+> **Agent:** Try a segment called *Settle This Sound*. Play the six-second clip at the stall. Hand someone two cards: “shutters going up” and “a delivery cart.” Give them a blank card too. The producer's opening line is “I heard shutters. What am I missing?” Let people leave a correction without giving their name. Ask separately before quoting anyone on air.
+>
+> **Producer:** We tried the cards. New people wrote answers, but nobody wanted their voice aired. We need one new local perspective per show. It can be read by the host.
+>
+> **Agent:** Keep the cards. Retire the request for a voice recording. Add a choice on the back: “The host may read my words anonymously” or “For the producer only.” Ask whether this is their first contribution. Try one market morning. Count first-time contributors whose corrections the host has permission to read. If people correct the guess but decline quotation, the format still hasn't solved the editorial problem.
+
+The first result distinguishes having something to say from wanting to call a station. The second changes what the producer needs to collect. Neither result requires another list of ten ideas.
+
+Try this on your own problem: **“Challenge your first reading of my brief. What did I actually require, what did you infer, and what detail would make you change your recommendation? Give me one bold idea that follows from the other reading.”** [Try a two-round comparison](examples/challenge-check.md)
+
 ## Install
 
 Download the [release ZIP](https://github.com/ahmadjehad2000/distinct-ideas/releases/latest/download/distinct-ideas.zip) and extract its `distinct-ideas` folder into the location for your agent. The installed file should end in `distinct-ideas/SKILL.md`.
